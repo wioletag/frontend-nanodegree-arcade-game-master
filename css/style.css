@@ -3,7 +3,9 @@ body {
     text-align: center;
 }
 
-.points, .lives, .level {
+.points,
+.lives,
+.level {
 	padding-right: 10px;
 }
 
@@ -13,17 +15,20 @@ body {
 	color: #A52A2A;
 }
 
-#github {
+.link {
 	font-size: 20px;
 	color: #A52A2A;
 }
 
-a:visited, a:active, a:link{
+a:visited,
+a:active,
+a:link {
 	text-decoration: none;
 	color: #A52A2A;
 }
 
-ul, li {
+ul,
+li {
     list-style-type: none;
     padding: 0;
 }
