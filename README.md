@@ -2,7 +2,7 @@ Udacity Frontend Nanodegree Frogger Game
 =========================================
 ### **Overview**
 
-This project is part of Udacity's Frontend Web Developer Nanodegree.
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript as a part of Udacity's Frontend Web Developer Nanodegree.
 The objective of the game is to get as many points as possible while avoiding the bug enemies.
 
 ### **Usage**
