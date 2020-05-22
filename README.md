@@ -8,7 +8,7 @@ The objective of the game is to get as many points as possible while avoiding th
 ### **Usage**
 - Open index.html if project is downloaded from GitHub or play the game [here](https://wioletag.github.io/frogger-game/).
 - Refresh the page to reset the game.
-- Use the arrow keys (up, down, left, and right) to move the player.
+- Use the arrow keys (up, down, left, and right) to move the player.(This game is not mobile friendly yet)
 
 ### **Game Rules**
 - Game starts with level 1 and the player having 3 lives.
